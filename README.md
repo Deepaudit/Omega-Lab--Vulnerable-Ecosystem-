@@ -53,7 +53,7 @@ O laboratório contém **18 vetores de ataque** distintos para exploração manu
 ### Instalação
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/omega-lab-deep-audit.git](https://github.com/seu-usuario/omega-lab-deep-audit.git)
+   git clone https://github.com/Deepaudit/omega-lab-deep-audit.git
 Mova o arquivo para o seu diretório web (/var/www/html ou htdocs).
 
 Importe o banco de dados inicial (opcional):
